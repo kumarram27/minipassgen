@@ -1,1 +1,1 @@
-# miniprojects
+# mini password generator
